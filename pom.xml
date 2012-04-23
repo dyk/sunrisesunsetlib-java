@@ -4,7 +4,7 @@
   <groupId>com.luckycatlabs.sotoo</groupId>
   <artifactId>SunriseSunsetCalculator</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-git-dac48872c628dc5b0a406ab55398843ef7d43fb4</version>
   <name>SunriseSunsetCalculator</name>
   <url>http://maven.apache.org</url>
   <build>
